@@ -12,13 +12,13 @@ Tableau Model Exploration
 ​
 Model Variables: The variables considered in the model include:
 ​
-HbA1C Levels
-Gender
-Smoking History
-Heart Disease
-BMI
-Blood Glucose
-Diabetes
+- HbA1C Levels
+- Gender
+- Smoking History
+- Heart Disease
+- BMI
+- Blood Glucose
+- Diabetes
 ​
 Detailed Explanation on HbA1c: A detailed explanation is provided on HbA1c levels (hemoglobin A1c or glycated hemoglobin), which is a measure of average blood sugar levels over the past two to three months. It is primarily used to monitor long-term blood sugar control in people with diabetes and helps in understanding how well diabetes is being managed.
 ​
