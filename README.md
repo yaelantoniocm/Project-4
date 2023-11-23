@@ -28,15 +28,15 @@ Model Variables: The variables considered in the model include:
 Detailed Explanation on HbA1c: A detailed explanation is provided on HbA1c levels (hemoglobin A1c or glycated hemoglobin), which is a measure of average blood sugar levels over the past two to three months. It is primarily used to monitor long-term blood sugar control in people with diabetes and helps in understanding how well diabetes is being managed.
 
 ​
-For the data exploration tableau and Python was used to get a better understanding.
+* For the data exploration tableau and Python was used to get a better understanding.
 
-Most of the people is between 25-30 in Body Mass Index which is overweight.
+* Most of the people is between 25-30 in Body Mass Index which is overweight.
 
-In Age vs diabetes it is clearly seen that the tendency is the older the people, more likely to get diabetes.
+* In Age vs diabetes it is clearly seen that the tendency is the older the people, more likely to get diabetes.
 
-In smoking history it was a little bit tricky because there is some missing information and because people were not completely honest
+* In smoking history it was a little bit tricky because there is some missing information and because people were not completely honest
 
-The people with heart disease was separated in groups so it can be better understood and as the tenency continues, older the people get the more problems they have.
+* The people with heart disease was separated in groups so it can be better understood and as the tenency continues, older the people get the more problems they have.
 
 ​
 Conclusions:
