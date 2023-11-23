@@ -27,7 +27,6 @@ Model Variables: The variables considered in the model include:
 
 Detailed Explanation on HbA1c: A detailed explanation is provided on HbA1c levels (hemoglobin A1c or glycated hemoglobin), which is a measure of average blood sugar levels over the past two to three months. It is primarily used to monitor long-term blood sugar control in people with diabetes and helps in understanding how well diabetes is being managed.
 
-​
 * For the data exploration tableau and Python was used to get a better understanding.
 
 * Most of the people is between 25-30 in Body Mass Index which is overweight.
